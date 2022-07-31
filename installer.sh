@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-REPO="https://github.com/TeamUltroid/Ultroid.git"
-DIR="/root/TeamUltroid"
+REPO="https://github.com/timurmoore/solarsystem.git"
+DIR="/root/solarsystem"
 
 spinner(){
     local pid=$!
@@ -19,7 +19,7 @@ clone_repo(){
     if [ ! $BRANCH ]
         then export BRANCH="main"
     fi
-    echo -e "\n\nCloning Ultroid ${BRANCH}... "
+    echo -e "\n\nCloning solarsystem ${BRANCH}... "
     git clone -b $BRANCH $REPO $DIR
 }
 
