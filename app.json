@@ -1,5 +1,5 @@
 {
-    "name": "Ultroid UserBot",
+    "name": "solarsystem UserBot",
     "description": "Pluggable telegram userbot, made in python using Telethon.",
     "logo": "https://telegra.ph/file/031957757a4f6a5191040.jpg",
     "keywords": [
@@ -9,8 +9,8 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
-    "website": "https://ultroid.tech",
+    "repository": "https://github.com/timurmoore/solarsystem",
+    "website": "https://ya.ru",
     "success_url": "https://t.me/TheUltroid",
     "stack": "container",
     "env": {
