@@ -39,7 +39,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/timurmoore/solarsystem)
+[![Deploy](https://dashboard.heroku.com/new?template=https://github.com/timurmoore/solarsystem)
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
